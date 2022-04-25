@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Code project : [https://www.codeproject.com/script/Membership/View.aspx?mid=8750966](https://www.codeproject.com/script/Membership/View.aspx?mid=8750966)
-Linked In    : [https://in.linkedin.com/in/divinoa84](https://in.linkedin.com/in/divinoa84)
+Code project : [https://www.codeproject.com/script/Membership/View.aspx?mid=8750966](https://www.codeproject.com/script/Membership/View.aspx?mid=8750966)  
+Linked In    : [https://in.linkedin.com/in/divinoa84](https://in.linkedin.com/in/divinoa84)  
 
