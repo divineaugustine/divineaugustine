@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Links  
-[Code project](https://www.codeproject.com/Members/Divin-O-A)  
+[Code project](https://www.codeproject.com/Articles/352270/Getting-Started-with-Volume-Rendering-using-OpenGL)  
 [LinkedIn](https://www.linkedin.com/in/divinoa84)
